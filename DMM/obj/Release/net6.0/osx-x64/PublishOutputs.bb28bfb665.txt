@@ -1,0 +1,4 @@
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Release/net6.0/osx-x64/publish/DMM
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Release/net6.0/osx-x64/publish/DMM.deps.json
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Release/net6.0/osx-x64/publish/DMM.runtimeconfig.json
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Release/net6.0/osx-x64/publish/DMM.pdb

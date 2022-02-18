@@ -1,0 +1,15 @@
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Debug/net6.0/DMM
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Debug/net6.0/DMM.deps.json
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Debug/net6.0/DMM.runtimeconfig.json
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Debug/net6.0/DMM.dll
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Debug/net6.0/ref/DMM.dll
+/Users/nickorlow/RiderProjects/DMM/DMM/bin/Debug/net6.0/DMM.pdb
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.csproj.AssemblyReference.cache
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.AssemblyInfoInputs.cache
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.AssemblyInfo.cs
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.csproj.CoreCompileInputs.cache
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.dll
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/ref/DMM.dll
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.pdb
+/Users/nickorlow/RiderProjects/DMM/DMM/obj/Debug/net6.0/DMM.genruntimeconfig.cache
