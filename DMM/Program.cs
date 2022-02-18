@@ -6,6 +6,9 @@ namespace DMM
     {
         public static void Main(string[] args)
         {
+            // Disable Garbage Collection (Not Necessary)
+            GC.TryStartNoGCRegion(1);
+            
             Console.WriteLine("C# DMM");
             fixed (char* str2 = "This is a char Arr\n")
             {

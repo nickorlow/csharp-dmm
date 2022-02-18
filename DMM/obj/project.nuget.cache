@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9mmBpYFzXRd0dOWsCRmkJ/uRJLypuGYvjHIhEsx3SlKLeJW4sL1++A1rT87ZPy0jHjq+k5QQcbMam8Pm9YyN3A==",
+  "dgSpecHash": "ajZB8XgxHtmvrKDMfwOhixJns4q1rZKNS9TUOvWV1inSeblgw2hpf6boRhD3eNLzKdC0KvEqsb7NEvVhnfwiXQ==",
   "success": true,
   "projectFilePath": "/Users/nickorlow/RiderProjects/DMM/DMM/DMM.csproj",
   "expectedPackageFiles": [
-    "/Users/nickorlow/.nuget/packages/microsoft.dotnet.ilcompiler/6.0.0-rc.1.21420.1/microsoft.dotnet.ilcompiler.6.0.0-rc.1.21420.1.nupkg.sha512",
-    "/Users/nickorlow/.nuget/packages/runtime.osx-x64.microsoft.dotnet.ilcompiler/6.0.0-rc.1.21420.1/runtime.osx-x64.microsoft.dotnet.ilcompiler.6.0.0-rc.1.21420.1.nupkg.sha512",
-    "/Users/nickorlow/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.1/microsoft.netcore.app.runtime.osx-x64.6.0.1.nupkg.sha512",
-    "/Users/nickorlow/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.1/microsoft.aspnetcore.app.runtime.osx-x64.6.0.1.nupkg.sha512"
+    "/Users/nickorlow/.nuget/packages/microsoft.dotnet.ilcompiler/6.0.0-rc.1.21420.1/microsoft.dotnet.ilcompiler.6.0.0-rc.1.21420.1.nupkg.sha512"
   ],
   "logs": []
 }
